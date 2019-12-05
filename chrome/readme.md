@@ -8,7 +8,7 @@ grammar_mathjax: true
 
 无标题文档
 
-# [【小技巧】使 github 和 segmentfault 的 markdown 支持数学公式](https://segmentfault.com/a/1190000019359797)
+# [【小技巧】在网页中渲染数学公式](https://segmentfault.com/a/1190000019359797)
 
 [小技巧](https://segmentfault.com/t/%E5%B0%8F%E6%8A%80%E5%B7%A7)[markdown](https://segmentfault.com/t/markdown)  阅读约 3 分钟
 
