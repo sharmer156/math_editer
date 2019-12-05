@@ -6,8 +6,6 @@ grammar_mathjax: true
 ---
 
 
-无标题文档
-
 # [【小技巧】在网页中渲染数学公式](https://segmentfault.com/a/1190000019359797)
 
 [小技巧](https://segmentfault.com/t/%E5%B0%8F%E6%8A%80%E5%B7%A7)[markdown](https://segmentfault.com/t/markdown)  阅读约 3 分钟
@@ -55,6 +53,9 @@ chrome浏览器可以安装MathJax渲染插件解决，比如：
 下面几行是你的显示效果，如果都显示为数学公式，则说明正常渲染：
 
 这是一个行内公式：`!$P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}$`
+
+$P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}$`
+
 ```mathjax!
 
 $P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}$   
@@ -62,3 +63,8 @@ $  P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}
 $
 
 这是两个单行公式：
+
+$P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}$   
+$  P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}  
+$
+
