@@ -61,8 +61,9 @@ $P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}$`
 $P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}$   
 $  P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}  
 $
+```
 
-这是两个单行公式：
+* 这是两个单行公式：
 
 $P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}$   
 $  P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}  
