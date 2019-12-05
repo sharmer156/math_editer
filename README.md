@@ -41,8 +41,9 @@ grammar_mindmap: true
 `!$P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}$`
 `!` 
 ```
-```
+
 这是两个单行公式：
+
 
 ```mathjax!
 
