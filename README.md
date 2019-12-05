@@ -42,7 +42,7 @@ grammar_mindmap: true
 `!` 
 ```
 
-这是两个单行公式：
+* 这是两个单行公式：
 
 
 ```mathjax!
