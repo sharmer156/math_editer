@@ -6,7 +6,7 @@ grammar_mindmap: true
 ---
 
 [toc!]
-![enter description here](https://i.imgur.com/aPsiTPl.png)
+![enter description here](https://i.imgur.com/rhwP91t.png)
 
 * [数学公式编辑器mathediter](#数学公式编辑器mathediter)
 	* [chrome](#chrome)
@@ -36,12 +36,13 @@ grammar_mindmap: true
 - Typora
 ![enter description here](https://i.imgur.com/CIphX7d.png)
 - 小书匠
-- -行内公式
+* 行内公式
 ```
 `!$P = \frac{C_a^k \cdot C_b^{n-k}}{C_{a+b}^n}$`
 `!` 
 ```
 ```
+这是两个单行公式：
 
 ```mathjax!
 
@@ -57,7 +58,6 @@ $
 ## OCR
 
 ### Image2LaTeX
-
-* 需要信用卡
-* 每月免费1000
+需要信用卡
+每月免费1000
 
